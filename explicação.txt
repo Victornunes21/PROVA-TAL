@@ -1,0 +1,17 @@
+Questão 2:
+1° Criei uma lista vazia
+2° Criei a variável X e pedimos para o usuário informar seu valor
+3° Utilizei a função append adicionei a variável X dentro da lista
+4° Criei a variável lista1 para armazenar a lista
+5° Utilizei a função reverse para inverte a ordem do elemento da lista
+6° Armazenei essa lista inversa na lista2
+7° fiz a verificação das listas
+Caso fossem iguais retornaria “Verdadeiro”, caso contrário “Falso”
+
+Questão 3:
+1° Criei a Classe ParkingSystem
+2° defini o init com self e os tipos de carros int_big, int_meduin, int_small
+3° linha 21, pedir ao usuário o tipo do carro dele
+4° linha 7 criei uma função para verificar o tipo do carro ...
+5° linhas 22, 23 e 24 dei as opções 
+Mas pra frente iria verificar o numero de vagas...
